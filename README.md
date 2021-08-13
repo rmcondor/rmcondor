@@ -3,8 +3,9 @@
 ### About me
 * I'm Bachelor's degree in Economics from Lima, Peru.
 * I'm currently working as Research Analyst in [Innovations for Poverty Action](https://www.poverty-action.org/).
-* I'm interested in development economics, applied microeconometrics, public policies, education, and poverty.
 * I'm a teaching assistant of the Economics of Distribution course in [Universidad Nacional Mayor de San Marcos](https://www.unmsm.edu.pe/).
+* I'm interested in development economics, applied microeconometrics, public policies, education, and poverty.
+
 
 ### Contact
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
