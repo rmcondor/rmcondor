@@ -1,9 +1,9 @@
 ### Hi there. I'm Ronny 👋
 
 ### About me
-* I'm Bachelor's degree in Economics from Lima, Peru.
+* I'm Bachelor's degree in Economics from UNMSM.
 * I'm currently working as Research Analyst in [Innovations for Poverty Action](https://www.poverty-action.org/).
-* I'm a teaching assistant of the Economics of Distribution course in [Universidad Nacional Mayor de San Marcos](https://www.unmsm.edu.pe/).
+* I'm a teaching assistant of the Economics of Distribution course.
 * I'm interested in development economics, applied microeconometrics, public policies, education, and poverty.
 
 
