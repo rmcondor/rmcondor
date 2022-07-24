@@ -2,7 +2,7 @@
 
 ### About me
 * I'm Bachelor's degree in Economics from Universidad Nacional Mayor de San Marcos (Peru).
-* I'm currently working as Research Analyst in [Innovations for Poverty Action](https://www.poverty-action.org/).
+* I'm currently working as Research Associate in [Innovations for Poverty Action](https://www.poverty-action.org/).
 * I'm interested in development economics, applied microeconometrics, public policies, education, and poverty.
 
 
