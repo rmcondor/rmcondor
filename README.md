@@ -1,9 +1,11 @@
 ### Hi there. I'm Ronny 👋
 
 ### About me
-* I'm Bachelor's degree in Economics from Universidad Nacional Mayor de San Marcos (Peru).
-* I'm currently working as Research Associate in [Innovations for Poverty Action](https://www.poverty-action.org/).
-* I'm interested in development economics, applied microeconometrics, public policies, education, and poverty.
+I’m Ronny Condor. I’m a Master student in Economics at Universidad de San Andrés (UdeSA). I also hold my Bachelor degree in Economics at Universidad Nacional Mayor de San Marcos (Lima). I worked as Research Associate at Innovations for Poverty Action (IPA) where I managed field experiments in topics as early childhood development, entrepreneurial mindset and gender gaps in STEM. Before joining IPA, I worked as a consultant at the Office of the Comptroller General of Peru in a project in cooperation with the IDB related to public management control services.
+
+My main fields of research interests are development economics, inequality, political economy, and poverty.
+
+You can contact me at rmcondorit@gmail.com
 
 
 ### Contact
