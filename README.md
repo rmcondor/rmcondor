@@ -1,7 +1,7 @@
 ### Hi there. I'm Ronny 👋
 
 ### About me
-I’m a Master student in Economics and Teaching Assistant at Universidad de San Andrés (UdeSA). I also hold my Bachelor degree in Economics at Universidad Nacional Mayor de San Marcos (UNMSM). I have worked as Research Associate at Innovations for Poverty Action (IPA) where I managed field experiments in topics as early childhood development, entrepreneurial mindset and gender gaps in STEM. Before joining IPA, I worked as a consultant at the Office of the Comptroller General of Peru in a project in cooperation with the IDB related to public management control services.
+I’m a Master student in Economics and Teaching Assistant at Universidad de San Andrés (UdeSA). I also hold my Bachelor degree in Economics at Universidad Nacional Mayor de San Marcos (UNMSM). Currently, I am Research Assistant at Durham University working in a project that tries to understand the motivated reasoning behind political preferences in Argentina. Previously, I have worked as Research Associate at Innovations for Poverty Action (IPA) where I managed field experiments in topics as early childhood development, entrepreneurial mindset and gender gaps in STEM. Before joining IPA, I worked as a consultant at the Office of the Comptroller General of Peru in a project in cooperation with the IDB related to public management control services.
 
 My main fields of research interests are development economics, and political economy.
 
